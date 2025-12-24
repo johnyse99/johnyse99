@@ -24,7 +24,7 @@ Me especializo en transformar datos crudos en inteligencia operativa, cubriendo 
 
 > **El valor de mi perfil:** Mi background como Ingeniero y las bases matemáticas adquiridas me permite comprender la arquitectura interna de los algoritmos ("bajo el capó"), garantizando que cada fase del análisis tenga un sustento científico sólido.
 
-## 🛠️ Tech Stack & Herramientas (AI-Augmented)
+## 🛠️ Tech Stack & Tools (AI-Augmented)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
