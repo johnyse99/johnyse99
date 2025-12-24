@@ -6,7 +6,7 @@
 
 Más allá de los títulos y las herramientas, me muevo por la curiosidad pura. Mi historia con la Inteligencia Artificial es un romance reciente; apenas llevamos un año conociéndonos, pero ha sido un flechazo absoluto. Para mí, programar con IA no es solo "optimizar", es volver a sentir esa emoción de niño explorando un juguete nuevo.
 
-Toda mi vida laboral transcurrió en el ámbito de la docencia, pero siempre he creído que la pasión vence al cronómetro. Allá por el 2005, cuando apenas descubría PHP sentía emoción por descubrir el mundo fascinante de la TI, hoy con la AI es mi motor: no importa si la herramienta es nueva o si el campo es desconocido, si hay un problema interesante y una pizca de café, la solución aparece porque me divierte encontrarla. 
+Toda mi vida laboral transcurrió en el ámbito de la docencia, pero siempre he creído que la pasión vence al cronómetro. Allá por el 2005, cuando apenas descubría PHP sentía emoción por descubrir el mundo fascinante de la TI, luego creció mi curiosidad por la programación de Java y C# de manera autodidacta, hoy la AI es mi motor: no importa si la herramienta es nueva o si el campo es desconocido, si hay un problema interesante y una pizca de café, la solución aparece porque me divierte encontrarla. 
 
 ### Math-driven Data Scientist | Systems Engineer | AI-Augmented Developer
 
