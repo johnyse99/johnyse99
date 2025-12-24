@@ -4,7 +4,7 @@
 
 ### Math-driven Data Scientist | Systems Engineer | AI-Augmented Developer
 
-Soy un profesional apasionado por la intersección entre la lógica matemática y la computación. Con una sólida formación como **Licenciado en Matemáticas** e **Ingeniero en Sistemas Computacionales**, enfoco mi carrera técnica en resolver problemas complejos mediante Data Science.
+Soy un profesional apasionado por la intersección entre la lógica matemática y la computación. Con una sólida formación como **Ingeniero en Sistemas Computacionales**, enfoco mi carrera técnica en resolver problemas complejos mediante Data Science.
 
 ## 🚀 Mi Enfoque
 Me especializo en el desarrollo de proyectos de **Machine Learning** utilizando **Python**, potenciando mi flujo de trabajo con Inteligencia Artificial para alcanzar soluciones de alta precisión en diversos campos del conocimiento.
@@ -26,19 +26,6 @@ Me especializo en el desarrollo de proyectos de **Machine Learning** utilizando 
 
 ---
 📫 **¿Cómo contactarme?**
-- Conéctate conmigo en [LinkedIn](TU_LINK_AQUI)
+- Conéctate conmigo en [GitHub]https://github.com/johnyse99
 - O explora mis repositorios aquí abajo para ver mis últimos simuladores y modelos.
-<!--
-**johnyse99/johnyse99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
