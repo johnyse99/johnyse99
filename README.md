@@ -2,6 +2,14 @@
 
 # ¡Hola! Soy Juan 👋 (johnyse99)
 
+## 🖋️ Un pequeño comentario "entre líneas"...
+
+Más allá de los títulos y las herramientas, me muevo por la curiosidad pura. Mi historia con la Inteligencia Artificial es un romance reciente; apenas llevamos un año conociéndonos, pero ha sido un flechazo absoluto. Para mí, programar con IA no es solo "optimizar", es volver a sentir esa emoción de niño explorando un juguete nuevo.
+
+Siempre he creído que la pasión vence al cronómetro. Allá por el 2005, cuando apenas descubría PHP, alguien me pidió una solución que "tomaría meses". Le pedí tres, pero la emoción de resolver el rompecabezas no me dejó dormir: a los tres días ya tenía la solución funcionando en un host gratuito.
+
+Ese es mi motor: no importa si la herramienta es nueva o si el campo es desconocido, si hay un problema interesante y una pizca de café, la solución aparece porque me divierte encontrarla.
+
 ### Math-driven Data Scientist | Systems Engineer | AI-Augmented Developer
 
 Soy un profesional apasionado por la intersección entre la lógica matemática y la computación. Con una sólida formación como **Ingeniero en Sistemas Computacionales**, enfoco mi carrera técnica en resolver problemas complejos mediante Data Science.
