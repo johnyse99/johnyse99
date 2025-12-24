@@ -26,6 +26,10 @@ Me especializo en el desarrollo de proyectos de **Machine Learning** utilizando 
 
 ---
 📫 **¿Cómo contactarme?**
-- Conéctate conmigo en [GitHub]https://github.com/johnyse99
+- Conéctate conmigo en [GitHub] (https://github.com/johnyse99)
 - O explora mis repositorios aquí abajo para ver mis últimos simuladores y modelos.
+
+  ---
+📩 **Contacto Directo:** Si estás interesado en colaborar en proyectos de IA, simulación científica o análisis de datos, puedes contactarme directamente a través de mi correo: [TU_CORREO_AQUÍ]. 
+Disponible para contratos internacionales (Remote / Contract work).
 
