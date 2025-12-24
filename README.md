@@ -22,7 +22,7 @@ Me especializo en transformar datos crudos en inteligencia operativa, cubriendo 
 * **🔮 Analítica Predictiva:** Implementación de modelos de Machine Learning y estadística probabilística para anticipar tendencias y shocks económicos.
 * **🧠 Analítica Prescriptiva:** Mi punto diferenciador. Desarrollo de motores de decisión (**Decision Engines**) que no solo predicen, sino que sugieren la acción óptima a tomar (como mi sistema de Gestión de Capital en Trading).
 
-> **El valor de mi perfil:** Mi background como Ingeniero y conocimiento Matemático me permite comprender la arquitectura interna de los algoritmos ("bajo el capó"), garantizando que cada fase del análisis tenga un sustento científico sólido.
+> **El valor de mi perfil:** Mi background como Ingeniero me permite comprender la arquitectura interna de los algoritmos ("bajo el capó"), garantizando que cada fase del análisis tenga un sustento científico sólido.
 
 ## 🛠️ Tech Stack & Herramientas
 
