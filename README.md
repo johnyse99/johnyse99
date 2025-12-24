@@ -19,6 +19,12 @@ Me especializo en el desarrollo de proyectos de **Machine Learning** utilizando 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+| Proyecto | Descripción Técnica | Demo |
+| :--- | :--- | :--- |
+| **📈 Centro de Mando Trading v7.5** | **Decision Engine** para gestión de capital. Optimiza el tamaño de posición (Risk Management) basado en ratios R:B y realiza un plan de ejecución definitivo para activos como NVDA, TSLA y BTC. | [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trading-mando-v7.streamlit.app/) |
+| **🏦 IA para Políticas Públicas** | Sistema de **Nowcasting del PIB** que utiliza Análisis de Componentes Principales (PCA) para procesar indicadores de alta frecuencia y predecir el impacto de shocks externos (VIX, Petróleo). | [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pib-monitor-ia.streamlit.app/) |
+| **📉 Monitor de Crisis Económica** | Análisis probabilístico de recesión mediante modelos de series temporales. Incluye visualización de tendencias históricas y umbrales de riesgo crítico por país. | [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://macropredict-ml-wsnoixfmug3vhbbpxjdtci.streamlit.app/) |
+
 ## 💡 Lo que aporto a un equipo
 * **Pensamiento Analítico:** Capacidad para desglosar problemas de negocio en modelos matemáticos ejecutables.
 * **Madurez Profesional:** Experiencia consolidada en resolución de problemas y comunicación efectiva (proveniente de mi trayectoria en docencia).
