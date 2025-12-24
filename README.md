@@ -49,6 +49,6 @@ Me especializo en transformar datos crudos en inteligencia operativa, cubriendo 
 - O explora mis repositorios aquí abajo para ver mis últimos simuladores y modelos.
 
   ---
-📩 **Contacto Directo:** Si estás interesado en colaborar en proyectos de IA, simulación científica o análisis de datos, puedes contactarme directamente a través de mi correo: [TU_CORREO_AQUÍ]. 
+📩 **Contacto Directo:** Puedes contactarme directamente a través de mi correo: [regiomaster@protonmail.com]. 
 Disponible para contratos internacionales (Remote / Contract work).
 
