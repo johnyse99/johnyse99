@@ -1,6 +1,6 @@
 ## Math-driven Data Scientist & Systems Engineer 🚀 | Creando soluciones de IA con rigor científico. Mira mi presentación abajo 👇
 
-# ¡Hola! Soy Juan 👋 (johnyse99)
+# ¡Hola! Soy Juan S. 👋 (johnyse99)
 
 ## 🖋️ Un pequeño comentario "entre líneas"...
 
