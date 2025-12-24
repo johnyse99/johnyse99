@@ -7,9 +7,16 @@
 Soy un profesional apasionado por la intersección entre la lógica matemática y la computación. Con una sólida formación como **Ingeniero en Sistemas Computacionales**, enfoco mi carrera técnica en resolver problemas complejos mediante Data Science.
 
 ## 🚀 Mi Enfoque
+
 Me especializo en el desarrollo de proyectos de **Machine Learning** utilizando **Python**, potenciando mi flujo de trabajo con Inteligencia Artificial para alcanzar soluciones de alta precisión en diversos campos del conocimiento.
 
-> **El valor de mi perfil:** Mi background matemático me permite comprender la arquitectura interna de los algoritmos (lo que sucede "bajo el capó"), garantizando rigor científico en cada análisis.
+Me especializo en transformar datos crudos en inteligencia operativa, cubriendo el ciclo completo de la ciencia de datos mediante el rigor matemático y el desarrollo ágil con IA:
+
+* **📊 Analítica Descriptiva:** Análisis profundo de datos históricos para entender patrones y comportamientos pasados (como se observa en mis monitores de crisis).
+* **🔮 Analítica Predictiva:** Implementación de modelos de Machine Learning y estadística probabilística para anticipar tendencias y shocks económicos.
+* **🧠 Analítica Prescriptiva:** Mi punto diferenciador. Desarrollo de motores de decisión (**Decision Engines**) que no solo predicen, sino que sugieren la acción óptima a tomar (como mi sistema de Gestión de Capital en Trading).
+
+> **El valor de mi perfil:** Mi background como Ingeniero y Matemático me permite comprender la arquitectura interna de los algoritmos ("bajo el capó"), garantizando que cada fase del análisis tenga un sustento científico sólido.
 
 ## 🛠️ Tech Stack & Herramientas
 
