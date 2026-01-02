@@ -50,5 +50,5 @@ Me especializo en transformar datos crudos en inteligencia operativa, cubriendo 
 
   ---
 📩 **Contacto Directo:** Puedes contactarme directamente a través de mi correo: [regiomaster@protonmail.com]. 
-Disponible para contratos internacionales (Remote / Contract work).
+Solo disponible para contratos internacionales (Remote / Contract work).
 
