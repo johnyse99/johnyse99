@@ -24,10 +24,10 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 | **🏦 IA para Políticas Públicas** | GDP **Nowcasting System** that uses Principal Component Analysis (PCA) to process high-frequency indicators and predict the impact of external shocks (VIX, Oil). | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pib-nowcasting-ml-apb8wwhirqtwe9miguycoc.streamlit.app/) |
 | **📉 Monitor de Crisis Económica** | Probabilistic recession analysis using time series models. Includes visualization of historical trends and critical risk thresholds by country. | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://macropredict-ml-wsnoixfmug3vhbbpxjdtci.streamlit.app/) |
 
-## 💡 Lo que aporto a un equipo
-* **Pensamiento Analítico:** Capacidad para desglosar problemas de negocio en modelos matemáticos ejecutables.
-* **Madurez Profesional:** Experiencia consolidada en resolución de problemas y comunicación efectiva (proveniente de mi trayectoria en docencia).
-* **Aprendizaje Ágil:** Dominio de herramientas de IA para acelerar el ciclo de vida del desarrollo de software.
+## 💡 Key Skills
+* **Analytical Thinking:** Ability to break down business problems into executable mathematical models.
+* **Professional Maturity:** Solid experience in problem‑solving and effective communication (rooted in my teaching background).
+* **Agile Learning:** Mastery of AI tools to accelerate the software development lifecycle.
 
 ---
 📫 **¿Cómo contactarme?**
