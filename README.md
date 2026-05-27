@@ -4,9 +4,9 @@ Developing Machine Learning solutions with Python, optimizing my workflow with A
 
 Transforming raw data into operational intelligence, encompassing the entire data science lifecycle through mathematical rigor and agile AI development:
 
-* **📊 Descriptive Analytics:** In-depth analysis of historical data to uncover patterns and behaviors (as seen in my crisis monitoring systems).
-* **🔮 Predictive Analytics:** Implementing Machine Learning and probabilistic models to anticipate economic trends and disruptions.
-* **🧠 Predictive Analytics:** Creation of decision engines that not only predict but also recommend the optimal course of action (such as my capital management system for trading).
+* **Descriptive Analytics:** In-depth analysis of historical data to uncover patterns and behaviors (as seen in my crisis monitoring systems).
+* **Predictive Analytics:** Implementing Machine Learning and probabilistic models to anticipate economic trends and disruptions.
+* **Predictive Analytics:** Creation of decision engines that not only predict but also recommend the optimal course of action (such as my capital management system for trading).
 
 > **The Value of My Profile:** My engineering background and strong mathematical foundation allow me to understand the internal architecture of algorithms, ensuring that each phase of analysis is supported by sound scientific reasoning.
 
