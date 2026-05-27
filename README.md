@@ -1,14 +1,14 @@
-## 🚀 Mi Enfoque
+## 🚀 My Approach
 
-Me especializo en el desarrollo de proyectos de **Machine Learning** utilizando **Python**, potenciando mi flujo de trabajo con Inteligencia Artificial para alcanzar soluciones de alta precisión en diversos campos del conocimiento.
+Developing Machine Learning solutions with Python, optimizing my workflow with Artificial Intelligence to deliver high-precision solutions across diverse fields of knowledge.
 
-Me especializo en transformar datos crudos en inteligencia operativa, cubriendo el ciclo completo de la ciencia de datos mediante el rigor matemático y el desarrollo ágil con IA:
+Transforming raw data into operational intelligence, encompassing the entire data science lifecycle through mathematical rigor and agile AI development:
 
-* **📊 Analítica Descriptiva:** Análisis profundo de datos históricos para entender patrones y comportamientos pasados (como se observa en mis monitores de crisis).
-* **🔮 Analítica Predictiva:** Implementación de modelos de Machine Learning y estadística probabilística para anticipar tendencias y shocks económicos.
-* **🧠 Analítica Prescriptiva:** Mi punto diferenciador. Desarrollo de motores de decisión (**Decision Engines**) que no solo predicen, sino que sugieren la acción óptima a tomar (como mi sistema de Gestión de Capital en Trading).
+* **📊 Descriptive Analytics:** In-depth analysis of historical data to uncover patterns and behaviors (as seen in my crisis monitoring systems).
+* **🔮 Predictive Analytics:** Implementing Machine Learning and probabilistic models to anticipate economic trends and disruptions.
+* **🧠 Predictive Analytics:** Creation of decision engines that not only predict but also recommend the optimal course of action (such as my capital management system for trading).
 
-> **El valor de mi perfil:** Mi background como Ingeniero y las bases matemáticas adquiridas me permite comprender la arquitectura interna de los algoritmos ("bajo el capó"), garantizando que cada fase del análisis tenga un sustento científico sólido.
+> **The Value of My Profile:** My engineering background and strong mathematical foundation allow me to understand the internal architecture of algorithms, ensuring that each phase of analysis is supported by sound scientific reasoning.
 
 ## 🛠️ Tech Stack & Tools (Powered by AI)
 
