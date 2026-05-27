@@ -18,7 +18,7 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-| Proyecto | Descripción Técnica | Demo |
+| Project | Technical Description | Demo |
 | :--- | :--- | :--- |
 | **📈 Centro de Mando Trading v7.5** | Decision engine for capital management. Optimizes position sizing (Risk Management) based on R:B ratios and generates a definitive execution plan for assets such as NVDA, TSLA, and BTC.. | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tradeguard-ml-engine-ikkkh5s6y52zjdspq7e7cx.streamlit.app/) |
 | **🏦 IA para Políticas Públicas** | GDP **Nowcasting System** that uses Principal Component Analysis (PCA) to process high-frequency indicators and predict the impact of external shocks (VIX, Oil). | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pib-nowcasting-ml-apb8wwhirqtwe9miguycoc.streamlit.app/) |
