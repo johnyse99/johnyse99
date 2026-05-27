@@ -20,7 +20,7 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 
 | Proyecto | Descripción Técnica | Demo |
 | :--- | :--- | :--- |
-| **📈 Centro de Mando Trading v7.5** | **Decision Engine** para gestión de capital. Optimiza el tamaño de posición (Risk Management) basado en ratios R:B y realiza un plan de ejecución definitivo para activos como NVDA, TSLA y BTC. | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tradeguard-ml-engine-ikkkh5s6y52zjdspq7e7cx.streamlit.app/) |
+| **📈 Centro de Mando Trading v7.5** | **Decision engine for capital management. Optimizes position sizing (Risk Management) based on R:B ratios and generates a definitive execution plan for assets such as NVDA, TSLA, and BTC.. | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tradeguard-ml-engine-ikkkh5s6y52zjdspq7e7cx.streamlit.app/) |
 | **🏦 IA para Políticas Públicas** | Sistema de **Nowcasting del PIB** que utiliza Análisis de Componentes Principales (PCA) para procesar indicadores de alta frecuencia y predecir el impacto de shocks externos (VIX, Petróleo). | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pib-nowcasting-ml-apb8wwhirqtwe9miguycoc.streamlit.app/) |
 | **📉 Monitor de Crisis Económica** | Análisis probabilístico de recesión mediante modelos de series temporales. Incluye visualización de tendencias históricas y umbrales de riesgo crítico por país. | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://macropredict-ml-wsnoixfmug3vhbbpxjdtci.streamlit.app/) |
 
