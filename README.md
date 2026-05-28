@@ -14,23 +14,22 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 
 **The Value of My Profile**: My dual foundation in mathematics and software engineering allows me to reason about system invariants with formal rigor, ensuring that every architectural decision is justified by structural integrity rather than framework convenience.
 
-## 🛠️ Tech Stack & Projects
+⚙️ Tech Stack & Projects
 
-![Hexagonal Architecture](https://img.shields.io/badge/Architecture-Hexagonal%20%2F%20Ports%20%26%20Adapters-000000?style=for-the-badge&logo=architecture&logoColor=white)
-![Domain-Driven Design](https://img.shields.io/badge/Design-DDD%20%28Domain--Driven%20Design%29-333333?style=for-the-badge&logo=diagram&logoColor=white)
-![CQRS & Event Sourcing](https://img.shields.io/badge/Pattern-CQRS%20%26%20Event%20Sourcing-4A154B?style=for-the-badge)
-![SOLID Principles](https://img.shields.io/badge/Principles-SOLID-222222?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Design-Clean%20Architecture-0078D4?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Patterns-GoF%20Design%20Patterns-FF5722?style=for-the-badge)
-![Mutation Testing](https://img.shields.io/badge/Testing-Mutation%20Testing-E51C23?style=for-the-badge)
-![Contract Testing](https://img.shields.io/badge/Testing-Contract%20Testing%20%28Pact%29-00A86B?style=for-the-badge)
-![Architectural Fitness](https://img.shields.io/badge/QA-Architectural%20Fitness%20Functions-FFC107?style=for-the-badge&logoColor=black)
+#### 🏛️ Architecture & Paradigms
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-000000?style=flat-square) ![DDD](https://img.shields.io/badge/Domain--Driven%20Design%20(DDD)-333333?style=flat-square) ![CQRS & Event Sourcing](https://img.shields.io/badge/CQRS%20%26%20Event%20Sourcing-4A154B?style=flat-square)
+
+#### ⚙️ Engineering Principles
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-222222?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0078D4?style=flat-square) ![Design Patterns](https://img.shields.io/badge/GoF%20Design%20Patterns-FF5722?style=flat-square)
+
+#### 🧪 Industrial Quality Assurance
+![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-E51C23?style=flat-square) ![Contract Testing](https://img.shields.io/badge/Contract%20Testing-00A86B?style=flat-square) ![Architectural Fitness](https://img.shields.io/badge/Architectural%20Fitness%20Functions-FFC107?style=flat-square&logoColor=black)
 
 | Project | Technical Description | Repository |
 | :--- | :--- | :--- |
-| ☕ **Java-SmartPos-System** | SmartPOS is a modern, Point of Sale (POS) system built with **JavaFX** and **Clean Architecture**. It is designed to be a robust starting point for small businesses or a portfolio project demonstration. | [📁 View Repository](https://github.com/TU_USUARIO/Java-SmartPos-System) |
-| 🌐 **Nexus-Logistics-Core-API** | Nexus Logistics Core is a robust, modular API for managing industrial logistics, built with **Symfony 6.4**, **PHP 8.3**, and strictly following **Hexagonal Architecture (Ports & Adapters)**. | [📁 View Repository](https://github.com/TU_USUARIO/Nexus-Logistics-Core-API) |
-| 💳 **Java-Digital-Wallet-Backend** | NexusPay is a high-performance, resilient digital wallet solution developed as an **Applied Data Science solution**. The project focuses on strict financial data integrity, transactional atomicity. | [📁 View Repository](https://github.com/TU_USUARIO/Java-Digital-Wallet-Backend) |
+| ☕ **Java-SmartPos-System** | SmartPOS is a modern, Point of Sale (POS) system built with **JavaFX** and **Clean Architecture**. It is designed to be a robust starting point for small businesses or a portfolio project demonstration. | [📁 View Repository](https://github.com/johnyse99/Java-SmartPos-System) |
+| 🌐 **Nexus-Logistics-Core-API** | Nexus Logistics Core is a robust, modular API for managing industrial logistics, built with **Symfony 6.4**, **PHP 8.3**, and strictly following **Hexagonal Architecture (Ports & Adapters)**. | [📁 View Repository](https://github.com/johnyse99/Nexus-Logistics-Core-API) |
+| 💳 **Java-Digital-Wallet-Backend** | NexusPay is a high-performance, resilient digital wallet solution developed as an **Applied Data Science solution**. The project focuses on strict financial data integrity, transactional atomicity. | [📁 View Repository](https://github.com/johnyse99/Java-Digital-Wallet-Backend) |
 
 ##
 ## 🚀 My Approach to Data Analytics
