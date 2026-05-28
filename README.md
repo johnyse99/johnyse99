@@ -14,7 +14,7 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 
 **The Value of My Profile**: My dual foundation in mathematics and software engineering allows me to reason about system invariants with formal rigor, ensuring that every architectural decision is justified by structural integrity rather than framework convenience.
 
-### 🛠️ Tech Stack & Projects
+## 🛠️ Tech Stack & Projects
 
 ![Hexagonal Architecture](https://img.shields.io/badge/Architecture-Hexagonal%20%2F%20Ports%20%26%20Adapters-000000?style=for-the-badge&logo=architecture&logoColor=white)
 ![Domain-Driven Design](https://img.shields.io/badge/Design-DDD%20%28Domain--Driven%20Design%29-333333?style=for-the-badge&logo=diagram&logoColor=white)
