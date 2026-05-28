@@ -52,5 +52,5 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 
   ---
 📩 **Direct contact:**You can contact me directly through my email: [regiomaster@protonmail.com]. 
-Only available for international contracts (Remote / Contract work).
+- Only available for international contracts (Remote / Contract work).
 
