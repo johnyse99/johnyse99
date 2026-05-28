@@ -14,7 +14,6 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 
 **The Value of My Profile**: My dual foundation in mathematics and software engineering allows me to reason about system invariants with formal rigor, ensuring that every architectural decision is justified by structural integrity rather than framework convenience.
 
-##
 ## ⚙️ Tech Stack & Projects
 
 #### 🏛️ Architecture & Paradigms
