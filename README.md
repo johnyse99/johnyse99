@@ -4,7 +4,7 @@ Engineering resilient software architectures with Java and PHP, applying battle-
 
 Transforming business complexity into maintainable, testable, and evolvable systems through architectural discipline and industrial-grade engineering:
 
-- **Hexagonal Architecture**: Decoupling domain logic from infrastructure, frameworks, and delivery mechanisms. The core remains pure, testable, and framework-agnostic (as seen in my banking messaging protocol and treasury systems).
+- **Hexagonal Architecture**: Decoupling domain logic from infrastructure, frameworks, and delivery mechanisms. The core remains pure, testable, and framework-agnostic.
 - **Domain-Driven Design (DDD)**: Modeling bounded contexts, aggregates, and domain events that mirror real-world business invariants. The code *is* the specification.
 - **SOLID Principles & Design Patterns**: Crafting object-oriented systems where single responsibility, open/closed design, and dependency inversion are non-negotiable constraints, not aspirations.
 - **Event Sourcing & CQRS**: Treating state as a derivative of immutable events. Full audit trails, temporal queries, and the ability to reconstruct system state at any point in time — critical for financial and regulatory domains.
