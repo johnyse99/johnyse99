@@ -1,6 +1,6 @@
 ##
-🏗️ My Approach to Critical Systems
-##
+##🏗️ My Approach to Critical Systems
+
 
 Engineering resilient software architectures with Java and PHP, applying battle-tested design principles to build systems that **must not fail** — where a bug is not a ticket, but a liability.
 
