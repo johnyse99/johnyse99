@@ -46,11 +46,11 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 * **Agile Learning:** Mastery of AI tools to accelerate the software development lifecycle.
 
 ---
-📫 **¿Cómo contactarme?**
-- Conéctate conmigo en [GitHub] (https://github.com/johnyse99)
-- O explora mis repositorios aquí abajo para ver mis últimos simuladores y modelos.
+📫 **How to contact me?**
+- Connect with me on [GitHub] (https://github.com/johnyse99)
+- Or explore my repositories to see my latest simulators and models, as well as the systems I've developed.
 
   ---
-📩 **Contacto Directo:** Puedes contactarme directamente a través de mi correo: [regiomaster@protonmail.com]. 
-Solo disponible para contratos internacionales (Remote / Contract work).
+📩 **Direct contact:**You can contact me directly through my email: [regiomaster@protonmail.com]. 
+Only available for international contracts (Remote / Contract work).
 
