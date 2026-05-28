@@ -28,7 +28,7 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 
 | Project | Technical Description | Repository |
 | :--- | :--- | :--- |
-| ☕ **Java-SmartPos-System** | SmartPOS is a modern, Point of Sale (POS) system built with **JavaFX** and **Clean Architecture**. It is designed to be a robust starting point for small businesses or a portfolio project demonstration. | [📁 View Repository]([https://github.com/johnyse99/Java-SmartPos-System](https://github.com/johnyse99/Java-SmartPos-System) |
+| ☕ **Java-SmartPos-System** | SmartPOS is a modern, Point of Sale (POS) system built with **JavaFX** and **Clean Architecture**. It is designed to be a robust starting point for small businesses or a portfolio project demonstration. | [📁 View Repository](https://github.com/johnyse99/Java-SmartPos-System) |
 | 🌐 **Nexus-Logistics-Core-API** | Nexus Logistics Core is a robust, modular API for managing industrial logistics, built with **Symfony 6.4**, **PHP 8.3**, and strictly following **Hexagonal Architecture (Ports & Adapters)**. | [📁 View Repository](https://github.com/johnyse99/Nexus-Logistics-Core-API) |
 | 💳 **Java-Digital-Wallet-Backend** | NexusPay is a high-performance, resilient digital wallet solution developed as an **Applied Data Science solution**. The project focuses on strict financial data integrity, transactional atomicity. | [📁 View Repository](https://github.com/johnyse99/Java-Digital-Wallet-Backend) |
 
