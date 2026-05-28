@@ -58,6 +58,12 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 | **🏦 IA para Políticas Públicas** | GDP **Nowcasting System** that uses Principal Component Analysis (PCA) to process high-frequency indicators and predict the impact of external shocks (VIX, Oil). | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pib-nowcasting-ml-apb8wwhirqtwe9miguycoc.streamlit.app/) |
 | **📉 Monitor de Crisis Económica** | Probabilistic recession analysis using time series models. Includes visualization of historical trends and critical risk thresholds by country. | [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://macropredict-ml-wsnoixfmug3vhbbpxjdtci.streamlit.app/) |
 
+| Project | Technical Description | Demo |
+| :--- | :--- | :--- |
+| 📈 **Centro de Mando Trading v7.5** | Decision engine for capital management. Optimizes position sizing (Risk Management) based on R:B ratios and generates a definitive execution plan for assets such as NVDA, TSLA, and BTC. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/user/johnyse99) |
+| 🏛️ **IA para Políticas Públicas** | GDP Nowcasting System that uses Principal Component Analysis (PCA) to process high-frequency indicators and predict the impact of external shocks (VIX, Oil). | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/user/johnyse99) |
+| 📉 **Monitor de Crisis Económica** | Probabilistic recession analysis using time series models. Includes visualization of historical trends and critical risk thresholds by country. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/user/johnyse99) |
+
 ## 💡 Key Skills
 * **Analytical Thinking:** Ability to break down business problems into executable mathematical models.
 * **Professional Maturity:** Solid experience in problem‑solving and effective communication (rooted in my teaching background).
