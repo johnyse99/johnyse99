@@ -22,6 +22,9 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 ![SOLID Principles](https://img.shields.io/badge/Principles-SOLID-222222?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Design-Clean%20Architecture-0078D4?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Patterns-GoF%20Design%20Patterns-FF5722?style=for-the-badge)
+![Mutation Testing](https://img.shields.io/badge/Testing-Mutation%20Testing-E51C23?style=for-the-badge)
+![Contract Testing](https://img.shields.io/badge/Testing-Contract%20Testing%20%28Pact%29-00A86B?style=for-the-badge)
+![Architectural Fitness](https://img.shields.io/badge/QA-Architectural%20Fitness%20Functions-FFC107?style=for-the-badge&logoColor=black)
 
 #### 🏛️ Architecture & Paradigms
 ![Hexagonal](https://img.shields.io/badge/Hexagonal%20Architecture-000000?style=flat-square&logo=architecture&logoColor=white) ![DDD](https://img.shields.io/badge/Domain--Driven%20Design%20(DDD)-333333?style=flat-square) ![CQRS & Event Sourcing](https://img.shields.io/badge/CQRS%20%26%20Event%20Sourcing-4A154B?style=flat-square)
