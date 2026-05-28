@@ -1,3 +1,17 @@
+## 🏗️ My Approach to Critical Systems
+
+Engineering resilient software architectures with Java and PHP, applying battle-tested design principles to build systems that **must not fail** — where a bug is not a ticket, but a liability.
+
+Transforming business complexity into maintainable, testable, and evolvable systems through architectural discipline and industrial-grade engineering:
+
+- **Hexagonal Architecture**: Decoupling domain logic from infrastructure, frameworks, and delivery mechanisms. The core remains pure, testable, and framework-agnostic (as seen in my banking messaging protocol and treasury systems).
+- **Domain-Driven Design (DDD)**: Modeling bounded contexts, aggregates, and domain events that mirror real-world business invariants. The code *is* the specification.
+- **SOLID Principles & Design Patterns**: Crafting object-oriented systems where single responsibility, open/closed design, and dependency inversion are non-negotiable constraints, not aspirations.
+- **Event Sourcing & CQRS**: Treating state as a derivative of immutable events. Full audit trails, temporal queries, and the ability to reconstruct system state at any point in time — critical for financial and regulatory domains.
+- **Industrial Quality Assurance**: JUnit/PHPUnit with mutation testing, contract testing, and architectural fitness functions. Exception handling as a security layer, not an afterthought.
+
+**The Value of My Profile**: My dual foundation in mathematics and software engineering allows me to reason about system invariants with formal rigor, ensuring that every architectural decision is justified by structural integrity rather than framework convenience.
+
 ## 🚀 My Approach
 
 Developing Machine Learning solutions with Python, optimizing my workflow with Artificial Intelligence to deliver high-precision solutions across diverse fields of knowledge.
