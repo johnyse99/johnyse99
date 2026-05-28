@@ -26,8 +26,6 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 ![Contract Testing](https://img.shields.io/badge/Testing-Contract%20Testing%20%28Pact%29-00A86B?style=for-the-badge)
 ![Architectural Fitness](https://img.shields.io/badge/QA-Architectural%20Fitness%20Functions-FFC107?style=for-the-badge&logoColor=black)
 
----
-
 | Project | Technical Description | Repository |
 | :--- | :--- | :--- |
 | ☕ **Java-SmartPos-System** | SmartPOS is a modern, Point of Sale (POS) system built with **JavaFX** and **Clean Architecture**. It is designed to be a robust starting point for small businesses or a portfolio project demonstration. | [📁 View Repository](https://github.com/TU_USUARIO/Java-SmartPos-System) |
