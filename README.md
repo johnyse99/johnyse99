@@ -11,7 +11,7 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 - **Industrial Quality Assurance**: JUnit/PHPUnit with mutation testing, contract testing, and architectural fitness functions. Exception handling as a security layer, not an afterthought.
 
 **The Value of My Profile**: My dual foundation in mathematics and software engineering allows me to reason about system invariants with formal rigor, ensuring that every architectural decision is justified by structural integrity rather than framework convenience.
-
+##
 ## 🚀 My Approach to Data Analytics
 
 Developing Machine Learning solutions with Python, optimizing my workflow with Artificial Intelligence to deliver high-precision solutions across diverse fields of knowledge.
@@ -22,7 +22,7 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 * **Predictive Analytics:** Implementing Machine Learning and probabilistic models to anticipate economic trends and disruptions.
 * **Predictive Analytics:** Creation of decision engines that not only predict but also recommend the optimal course of action (such as my capital management system for trading).
 
-> **The Value of My Profile:** My engineering background and strong mathematical foundation allow me to understand the internal architecture of algorithms, ensuring that each phase of analysis is supported by sound scientific reasoning.
+**The Value of My Profile:** My engineering background and strong mathematical foundation allow me to understand the internal architecture of algorithms, ensuring that each phase of analysis is supported by sound scientific reasoning.
 
 ## 🛠️ Tech Stack & Tools
 
