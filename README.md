@@ -12,7 +12,7 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 
 **The Value of My Profile**: My dual foundation in mathematics and software engineering allows me to reason about system invariants with formal rigor, ensuring that every architectural decision is justified by structural integrity rather than framework convenience.
 
-## 🚀 My Approach
+## 🚀 My Approach to Data Analytics
 
 Developing Machine Learning solutions with Python, optimizing my workflow with Artificial Intelligence to deliver high-precision solutions across diverse fields of knowledge.
 
