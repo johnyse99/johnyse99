@@ -16,6 +16,10 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 
 ### 🛠️ Tech Stack & Projects
 
+![Hexagonal Architecture](https://img.shields.io/badge/Architecture-Hexagonal%20%2F%20Ports%20%26%20Adapters-000000?style=for-the-badge&logo=architecture&logoColor=white)
+![Domain-Driven Design](https://img.shields.io/badge/Design-DDD%20%28Domain--Driven%20Design%29-333333?style=for-the-badge&logo=diagram&logoColor=white)
+![CQRS & Event Sourcing](https://img.shields.io/badge/Pattern-CQRS%20%26%20Event%20Sourcing-4A154B?style=for-the-badge)
+
 | Project | Technical Description | Repository |
 | :--- | :--- | :--- |
 | ☕ **Java-SmartPos-System** | SmartPOS is a modern, Point of Sale (POS) system built with **JavaFX** and **Clean Architecture**. It is designed to be a robust starting point for small businesses or a portfolio project demonstration. | [📁 View Repository](https://github.com/TU_USUARIO/Java-SmartPos-System) |
