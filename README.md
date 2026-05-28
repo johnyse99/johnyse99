@@ -13,6 +13,15 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 - **Industrial Quality Assurance**: JUnit/PHPUnit with mutation testing, contract testing, and architectural fitness functions. Exception handling as a security layer, not an afterthought.
 
 **The Value of My Profile**: My dual foundation in mathematics and software engineering allows me to reason about system invariants with formal rigor, ensuring that every architectural decision is justified by structural integrity rather than framework convenience.
+
+### 🛠️ Tech Stack & Projects
+
+| Project | Technical Description | Repository |
+| :--- | :--- | :--- |
+| ☕ **Java-SmartPos-System** | SmartPOS is a modern, Point of Sale (POS) system built with **JavaFX** and **Clean Architecture**. It is designed to be a robust starting point for small businesses or a portfolio project demonstration. | [📁 View Repository](https://github.com/TU_USUARIO/Java-SmartPos-System) |
+| 🌐 **Nexus-Logistics-Core-API** | Nexus Logistics Core is a robust, modular API for managing industrial logistics, built with **Symfony 6.4**, **PHP 8.3**, and strictly following **Hexagonal Architecture (Ports & Adapters)**. | [📁 View Repository](https://github.com/TU_USUARIO/Nexus-Logistics-Core-API) |
+| 💳 **Java-Digital-Wallet-Backend** | NexusPay is a high-performance, resilient digital wallet solution developed as an **Applied Data Science solution**. The project focuses on strict financial data integrity, transactional atomicity. | [📁 View Repository](https://github.com/TU_USUARIO/Java-Digital-Wallet-Backend) |
+
 ##
 ## 🚀 My Approach to Data Analytics
 
