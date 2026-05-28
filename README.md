@@ -19,6 +19,9 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 ![Hexagonal Architecture](https://img.shields.io/badge/Architecture-Hexagonal%20%2F%20Ports%20%26%20Adapters-000000?style=for-the-badge&logo=architecture&logoColor=white)
 ![Domain-Driven Design](https://img.shields.io/badge/Design-DDD%20%28Domain--Driven%20Design%29-333333?style=for-the-badge&logo=diagram&logoColor=white)
 ![CQRS & Event Sourcing](https://img.shields.io/badge/Pattern-CQRS%20%26%20Event%20Sourcing-4A154B?style=for-the-badge)
+![SOLID Principles](https://img.shields.io/badge/Principles-SOLID-222222?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Design-Clean%20Architecture-0078D4?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Patterns-GoF%20Design%20Patterns-FF5722?style=for-the-badge)
 
 | Project | Technical Description | Repository |
 | :--- | :--- | :--- |
