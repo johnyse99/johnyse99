@@ -16,7 +16,7 @@ Transforming business complexity into maintainable, testable, and evolvable syst
 
 ##
 <img width="1376" height="768" alt="preview" src="https://github.com/user-attachments/assets/1390b66d-4cda-4bef-9a51-1760aac3b979" />
-##
+
 
 ## ⚙️ Tech Stack & Projects
 
