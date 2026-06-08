@@ -65,7 +65,7 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 * **Agile Learning:** Mastery of AI tools to accelerate the software development lifecycle.
 
 ---
-📫 **How to contact me?**
+## 📫 **How to contact me?**
 - Connect with me on [GitHub] (https://github.com/johnyse99)
 - Or explore my repositories to see my latest simulators and models, as well as the systems I've developed.
 
