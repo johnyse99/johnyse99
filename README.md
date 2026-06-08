@@ -70,5 +70,5 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 - Or explore my repositories to see my latest simulators and models, as well as the systems I've developed.
 
 📩 **Direct contact:** You can contact me directly through my email: [regiomaster@protonmail.com]. 
-- Only available for international contracts (Remote / Contract work). Requires visa sponsorship for U.S./Canada/EU.
+- Only available for international contracts (Remote / Contract work). Requires visa sponsorship for U.S./Canada.
 
