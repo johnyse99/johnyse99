@@ -70,5 +70,5 @@ Transforming raw data into operational intelligence, encompassing the entire dat
 - Or explore my repositories to see my latest simulators and models, as well as the systems I've developed.
 
 📩 **Direct contact:** You can contact me directly through my email: [regiomaster@protonmail.com]. 
-- Only available for international contracts (Remote / Contract work). Requires visa sponsorship for U.S./Canada.
+- Only open to full-time employment with full visa sponsorship and direct payroll relocation to Canada (T4 tax withholding handled directly by the employer). Not interested in independent contractor, B2B, or remote 1099/W8-BEN agreements.
 
