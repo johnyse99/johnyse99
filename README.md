@@ -2,7 +2,7 @@
 ## 🏗️ My Approach to Critical Systems
 
 
-Engineering resilient software architectures with Java and PHP, applying battle-tested design principles to build systems that **must not fail** — where a bug is not a ticket, but a liability.
+Engineering resilient software architectures with Java, applying battle-tested design principles to build systems that **must not fail** — where a bug is not a ticket, but a liability.
 
 Transforming business complexity into maintainable, testable, and evolvable systems through architectural discipline and industrial-grade engineering:
 
